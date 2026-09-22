@@ -53,4 +53,5 @@ A reasonable workflow is to prototype in whichever tool is closest to your input
 
 If most of your generations start from a photograph and end in a slicer or an engine, the extra controls in Tripo 3D are overhead you pay for every time. [Try Supavoxel - upload a picture, download an STL/GLB, no CAD](https://supavoxel.com?utm_source=github&utm_medium=ugc&utm_campaign=tripo-3d-alternatives&utm_content=readme-top&utm_term=tier-r) and see whether the simplest route is good enough for your use case.
 
+
 _Last reviewed: 2026-09-22_
